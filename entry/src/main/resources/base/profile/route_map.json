@@ -1,0 +1,24 @@
+{
+  "routerMap": [
+    {
+      "name": "PushToken",
+      "pageSourceFile": "src/main/ets/pages/PushToken.ets",
+      "buildFunction": "PushTokenBuilder"
+    },
+    {
+      "name": "AAID",
+      "pageSourceFile": "src/main/ets/pages/AAID.ets",
+      "buildFunction": "AAIDBuilder"
+    },
+    {
+      "name": "JWT",
+      "pageSourceFile": "src/main/ets/pages/JWT.ets",
+      "buildFunction": "JWTBuilder"
+    },
+    {
+      "name": "PushMessage",
+      "pageSourceFile": "src/main/ets/pages/PushMessage.ets",
+      "buildFunction": "PushMessageBuilder"
+    }
+  ]
+}
